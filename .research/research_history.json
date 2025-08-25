@@ -3,5 +3,25 @@
   "queries": [
     "memory efficient diffusion architecture",
     "latent diffusion memory"
+  ],
+  "research_study_list": [
+    {
+      "title": "Improving Training Efficiency of Diffusion Models via Multi-Stage Framework and Tailored Multi-Decoder Architecture"
+    },
+    {
+      "title": "Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models"
+    },
+    {
+      "title": "SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds"
+    },
+    {
+      "title": "Finding NeMo: Localizing Neurons Responsible For Memorization in Diffusion Models"
+    },
+    {
+      "title": "Kanerva++: Extending the Kanerva Machine With Differentiable, Locally Block Allocated Latent Memory"
+    },
+    {
+      "title": "Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition"
+    }
   ]
 }
